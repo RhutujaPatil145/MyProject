@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-01T20:03:12 IST" name="Default suite" finished-at="2025-01-01T20:03:26 IST" duration-ms="14275">
+    <groups>
+    </groups>
+    <test started-at="2025-01-01T20:03:12 IST" name="Default test" finished-at="2025-01-01T20:03:26 IST" duration-ms="14275">
+      <class name="com.achived.testcase.FilterTest">
+        <test-method signature="verrifyDesciptionofSearchResultofTshite()[pri:0, instance:com.achived.testcase.FilterTest@223191a6]" started-at="2025-01-01T20:03:12 IST" name="verrifyDesciptionofSearchResultofTshite" finished-at="2025-01-01T20:03:26 IST" duration-ms="14170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verrifyDesciptionofSearchResultofTshite -->
+      </class> <!-- com.achived.testcase.FilterTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
